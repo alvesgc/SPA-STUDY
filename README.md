@@ -1,6 +1,6 @@
 # SPA Universe 
 
-![preview](./preview/jpg)
+![preview](https://github.com/alvesgc/SPA-STUDY/assets/140769066/94c1bff2-c316-400c-a154-96fb69ab6a58)
 
 > Trilha Explorer
 
@@ -11,6 +11,7 @@ Mais um desafio concluído com sucesso! Esse é o primeiro desafio do stage 6 - 
 - Conceitos de SPA;
 - Mapeamento de rotas;
 - Assíncrono e promisses;
+
 - Orientação a objetos;
 - Classes e muito mais.
 
