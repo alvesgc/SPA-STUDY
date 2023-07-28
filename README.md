@@ -1,6 +1,6 @@
 # SPA Universe 
 
-![preview](./.github/preview.png)
+![preview](./preview/jpg)
 
 > Trilha Explorer
 
