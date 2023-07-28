@@ -1,0 +1,11 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "Project to create a SPA web aplicattion at Rocketseat Explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alisson",
+  "license": "ISC"
+}
